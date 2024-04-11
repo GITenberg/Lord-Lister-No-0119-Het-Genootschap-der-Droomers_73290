@@ -1,0 +1,31 @@
+_repo: Lord-Lister-No-0119-Het-Genootschap-der-Droomers_73290
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Blakensee, Theo von
+    gutenberg_agent_id: '57021'
+    url: http://www.gutenberg.org/2009/agents/57021
+  - agent_name: Matull, Kurt
+    birthdate: 1872
+    gutenberg_agent_id: '40698'
+    url: http://www.gutenberg.org/2009/agents/40698
+    wikipedia: https://de.wikipedia.org/wiki/Kurt_Matull
+description: ''
+gutenberg_issued: '2024-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73290'
+language: nl
+pgterms:marc905: 20190518130358matull
+pgterms:marc906: '1910'
+pgterms:marc907: NL
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg
+publication_note: '  $aAmsterdam :$bRoman- Boek- en Kunsthandel, $c1910, pubdate 1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Lord Lister No. 0119: Het Genootschap der Droomers'
+url: http://www.gutenberg.org/ebooks/73290
