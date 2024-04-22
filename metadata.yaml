@@ -1,5 +1,8 @@
 _repo: Lord-Lister-No-0119-Het-Genootschap-der-Droomers_73290
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Blakensee, Theo von
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40698
     wikipedia: https://de.wikipedia.org/wiki/Kurt_Matull
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73290#Lord-Lister-No-0119-Het-Genootschap-der-Droomers
 gutenberg_issued: '2024-03-30'
 gutenberg_type: Text
 identifiers:
